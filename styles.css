@@ -23,3 +23,59 @@
     font-family: 'Hanken Grotesk', sans-serif;
 
 }
+
+.resul{
+    color: hsl(252, 100%, 67%);
+}
+
+.results p{
+    color: hsl(252, 100%, 67%)
+}
+
+.score{
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.results{
+    display: flex;
+    background-color: hsl(241, 81%, 54%);
+    border-radius: 10px;
+
+    color: white;
+
+    flex-direction: column;
+        text-align: center;
+
+    justify-content: space-evenly;
+    font-size: 20px;
+    
+}
+
+.redondo {
+    background: linear-gradient(180deg, rgba(15,1,255,1) 0%, rgba(106,7,255,1) 100%);
+    padding: 10px 40px;
+    
+    width: 150px;
+
+    height: 210px;
+
+    margin: 0 auto;    
+    
+    border-radius: 100%;
+
+    display: flex;
+
+    flex-direction: column;
+
+    justify-content: center;
+}   
+
+.redondo h2{
+    font-size: 100px;
+    margin: 0 ;
+}
+
+.redondo p{
+    margin: 0;
+}

@@ -9,3 +9,17 @@
     align-items: center;
 
 }
+
+.principal{
+    display: grid;
+
+    justify-content: center;
+
+    grid-template-columns: 1fr 1fr;
+    height: auto ;
+    width: 800px;
+    
+    
+    font-family: 'Hanken Grotesk', sans-serif;
+
+}

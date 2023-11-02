@@ -127,3 +127,16 @@
     flex-direction: column;
     gap: 30px;
 }
+
+.boton{
+    border: none ;
+    border-radius: 50px;
+    background-color: hsl(241, 81%, 54%);
+    color: aliceblue;
+
+    padding: 20px ;
+
+    width: 70%;
+
+    align-self: center;
+}

@@ -175,3 +175,12 @@
 }
 
 /*********************Colores de las casillas**********************/
+
+.text{
+    font-size: 20px;
+}    
+
+.attribution{
+    display: grid;
+    justify-content: center;
+}
